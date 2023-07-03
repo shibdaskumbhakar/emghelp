@@ -1,0 +1,9 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "compilerOptions": {
+    "resolveJsonModule": true,
+    "esModuleInterop": true
+    // Other compiler options...
+  },
+  "allowSyntheticDefaultImports": true
+}
